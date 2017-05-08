@@ -9,3 +9,4 @@
 *.log
 # exclude everything .idea
 *.idea
+*.idea/
