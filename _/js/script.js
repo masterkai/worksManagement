@@ -1,3 +1,1 @@
-/**
- * Created by kaiming on 5/8/2017.
- */
+function other(){return"other"}function test(){return"Hello"}
