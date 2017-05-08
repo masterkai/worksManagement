@@ -9,4 +9,6 @@
 *.log
 # exclude everything .idea
 *.idea
-*.idea/
+*.idea/workspace.xml
+
+/node_modules
