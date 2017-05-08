@@ -10,5 +10,5 @@
 # exclude everything .idea
 *.idea
 workspace.xml
-*/.idea
+*.idea/
 /node_modules
