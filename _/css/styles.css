@@ -141,7 +141,7 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
     width: 100%; }
     /* line 88, ../components/sass/styles.scss */
     .card .card-title h3 {
-      font-size: 1.2em;
+      font-size: 1.0em;
       line-height: 1.2;
       padding: 0 3.5%;
       margin: 0; }
