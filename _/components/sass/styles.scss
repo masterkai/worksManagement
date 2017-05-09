@@ -1,5 +1,7 @@
-$mycolor: #AABBCC;
-
-body {
-    background: $mycolor;
+@import 'compass';
+@import 'compass/reset';
+@import 'susy';
+@import "compass/css3";
+.box{
+	@include border-radius(5px);
 }
